@@ -23,4 +23,4 @@
 
 // Console.WriteLine(hitpoints);
 
-// / räknesätten fungerar som vanligt. int har inte decimaltal 
+// /räknesätten fungerar som vanligt. int har inte decimaltal 
