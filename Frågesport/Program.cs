@@ -24,3 +24,5 @@
 // Console.WriteLine(hitpoints);
 
 // /räknesätten fungerar som vanligt. int har inte decimaltal 
+
+Console.WriteLine("Welcome to the guessing game.");
