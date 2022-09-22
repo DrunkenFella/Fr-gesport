@@ -32,13 +32,13 @@ static void Close()
     Console.ReadKey();
     Environment.Exit(0);
 }
-//start
+
 int score = 0;
 
 Console.WriteLine("Welcome to the guessing game.");
 Console.WriteLine("Your name will be Chad Thundercock if you win.");
 Console.ReadLine();
-
+// start 
 Console.WriteLine("You will be answering with 1,2 and 3.");
 Console.ReadLine();
 Console.WriteLine("Question 1, what is the meaning with life?");
