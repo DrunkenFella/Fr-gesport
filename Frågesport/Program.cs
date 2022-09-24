@@ -97,3 +97,4 @@ else
 {
     Console.WriteLine("You are no Chad Thundercock go away peasant.");
 }
+Console.ReadKey(true);
